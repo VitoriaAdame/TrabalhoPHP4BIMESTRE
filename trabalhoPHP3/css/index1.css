@@ -1,0 +1,62 @@
+body{
+	background-image: url(http://www.url-dir.com/wp-content/uploads/roses/on-pinterest-wallpaper-free-october-desktop-wallpapers-and-free-Rose-Gold-And-Black-Marble-Wallpaper-october-desktop-wallpapers-and-wallpaper-pin-by.jpg);
+	background-size: 100%;
+	font-family: 'Inconsolata', monospace;
+}
+.title{
+	color: rgb(249, 45, 96);
+	font-family: 'Inconsolata', monospace;
+}
+.imglogo{
+	width:370px;
+	height:200px;
+	margin: auto;
+	
+}
+.imglogo .logo{
+	width:100%;
+	height:250px;
+	
+}
+.login{
+	text-align:center;
+	font-family: 'Inconsolata', monospace;
+}
+.log{
+	position: absolute;
+	left:34%;
+	top:12%;
+	background: rgba(100,100,105,0.3);
+	width:540px;
+	height:600px;
+	text-align:center;
+	border-radius:10px;
+	font-family: 'Inconsolata', monospace;
+}
+.log:hover{
+	background: rgba(255,255,255,0.4);
+}
+.log:hover .box{
+	background-color:rgba(220,220,220,0.4);
+}
+#ent{
+	right: 100%;
+	border-radius:25px;
+	width: 100px;
+	background:rgba(0,0,0,0.5);
+	background-color: #EEEEE0;
+	border:rgba(255,255,255,0.8) solid 1.5px;
+	top: 1%;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	color: #000;
+}
+a{
+	text-decoration: none;
+}
+
+input{
+	border-radius: 10%;
+	padding: 5px;
+	font-family: 'Inconsolata', monospace;
+}

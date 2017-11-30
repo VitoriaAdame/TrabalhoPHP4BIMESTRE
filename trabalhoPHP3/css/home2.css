@@ -1,0 +1,111 @@
+body{
+	margin: 0 auto;
+	background-image: url(http://www.url-dir.com/wp-content/uploads/roses/on-pinterest-wallpaper-free-october-desktop-wallpapers-and-free-Rose-Gold-And-Black-Marble-Wallpaper-october-desktop-wallpapers-and-wallpaper-pin-by.jpg);
+	font-family: 'Inconsolata', monospace;
+}
+h1{
+	text-align:center;
+
+}
+.fotos{
+	width:100%;
+	height: 550px;
+}
+.ftFundo{
+	width: 100%;
+	height: 450px;
+	
+}
+.ftFundo .fundo {
+	width: 100%;
+	height: 100%;
+}
+
+.ftPerfil{
+	width: 13%;
+    position: absolute;
+    height: 200px;
+    margin: 350px 43.5%;
+	
+}
+.ftPerfil .perfil{
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+}
+.apelido{
+	width: 300px;
+	margin: auto;
+	text-align: center;
+}
+
+.sobre {
+	width: 450px;
+	margin: auto;
+	text-align: center;
+	
+}
+.sobre {
+
+	font-size: 24px;
+}
+#amigos{
+	text-align: left;
+	font-size: 30px;
+	margin-top: 80px;
+}
+.amigo{
+	float:left;
+	padding: 10px;
+}
+
+.amigo .ftamigo{
+	width: 100px;
+	height: 100px;
+}
+
+.amigo .ftamigo img{
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+}
+.adicionar{
+	
+	display:block;
+	margin: auto;
+	margin-top:5px;
+	border-radius:25px;
+	width: 100px;
+	padding: 5px;
+	background:rgba(0,0,0,0.5);
+	background-color: #EEEEE0;
+	border:rgba(255,255,255,0.8) solid 1.5px;
+	color: #000;
+	font-family: 'Inconsolata', monospace;
+}
+.sair{
+	display:block;
+	margin: auto;
+	margin-top:5px;
+	border-radius:25px;
+	width: 100px;
+	padding: 5px;
+	background:rgba(0,0,0,0.5);
+	background-color: #EEEEE0;
+	border:rgba(255,255,255,0.8) solid 1.5px;
+	color: #000;
+	font-family: 'Inconsolata', monospace;
+}
+.voltar{
+	display:block;
+	margin: auto;
+	margin-top:5px;
+	border-radius:25px;
+	width: 100px;
+	padding: 5px;
+	background:rgba(0,0,0,0.5);
+	background-color: #EEEEE0;
+	border:rgba(255,255,255,0.8) solid 1.5px;
+	color: #000;
+	font-family: 'Inconsolata', monospace;
+}

@@ -1,0 +1,19 @@
+body{
+	background-image: url("../imagem/erro.gif");
+	background-repeat:no-repeat;
+	background-color: rgb(247, 247, 247);
+	background-size: 70%;
+	background-position:center;
+	margin-top:950px;
+}
+.voltar{
+	border-radius:25px;
+	font-size:1em;
+	width: 100px;
+	background-color: #EEEEE0;
+	border:rgba(255,255,255,0.8) solid 1.5px;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	color: #000;
+
+}
